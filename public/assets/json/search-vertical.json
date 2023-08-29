@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "name": "Dashboard",
+      "icon": "ti-smart-home",
+      "url": "/admin/dashboard"
+    },
+    {
+      "name": "Users",
+      "icon": "ti-users",
+      "url": "/admin/users"
+    },
+    {
+      "name": "AD Post",
+      "icon": "ti-ad",
+      "url": "/admin/ad-post"
+    },
+    {
+      "name": "Radio",
+      "icon": "ti-radio",
+      "url": "/admin/radio"
+    }
+  ],
+  "files": [],
+  "members": []
+}
